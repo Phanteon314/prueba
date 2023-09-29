@@ -2,3 +2,6 @@ baseURL = 'https://phanteon314.github.io/prueba/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme='tale'
+
+[params]
+    css = ["css/estilos.css]
