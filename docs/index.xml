@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
+    <link>https://phanteon314.github.io/prueba/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://phanteon314.github.io/prueba/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.org/</link>
+      <link>https://phanteon314.github.io/prueba/</link>
       <pubDate>Fri, 22 Sep 2023 19:39:20 +0200</pubDate>
       
-      <guid>https://example.org/</guid>
+      <guid>https://phanteon314.github.io/prueba/</guid>
       <description>Sitio de prueba Irure in tempor consequat excepteur pariatur ut consequat sint magna. Sit cupidatat fugiat id proident sint occaecat pariatur culpa excepteur nulla velit nostrud. Eu ullamco sint exercitation incididunt. Adipisicing eiusmod occaecat proident nostrud cillum nisi incididunt aute adipisicing et dolore Lorem mollit consequat. Labore et duis nostrud do culpa aute esse. Elit cillum anim id quis. Irure magna id eiusmod ex eu consectetur incididunt excepteur non culpa enim adipisicing.</description>
     </item>
     
